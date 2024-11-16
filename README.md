@@ -60,6 +60,7 @@ source /cadence/install/cshrc (mention the path of the tools)
       
 After this you can see the window like below 
 
+![Screenshot (94)](https://github.com/user-attachments/assets/6707ec78-5b1d-4c13-9342-be198ee2a7b8)
 ### Fig 2: Invoke the Cadence Environment
 
 To Launch Simulation tool 
@@ -73,12 +74,14 @@ or
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
+![Screenshot (103)](https://github.com/user-attachments/assets/1fd3ab95-d79e-4d00-ac38-6512cc790d55)
 ### Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
 
+![Screenshot (94)](https://github.com/user-attachments/assets/6707ec78-5b1d-4c13-9342-be198ee2a7b8)
 ### Fig 4:cds.lib file Creation
 
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
@@ -101,6 +104,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
+![Screenshot (107)](https://github.com/user-attachments/assets/a48ed78d-1ce2-47ae-b3e5-fe8918508e38)
 ### Fig 6: Nclaunch Window
 
 ## Step 1: Compilation:
@@ -173,11 +177,11 @@ Simulation allow to dump design and test bench signals into a waveform
 
 Steps for simulation – Run the simulation command with simulator options
 
+![Screenshot (108)](https://github.com/user-attachments/assets/6df94958-30ca-499e-b73b-82ddc7d4dfd2)
 ## Fig 9: Design Browser window for simulation
 
+![Screenshot (110)](https://github.com/user-attachments/assets/ae6d732b-b64d-4f1c-bade-d8f9848debd2)
 ## Fig 10:Simulation Waveform Window
-
-## Fig 11:Simulation Waveform Window
 
 ### Result
 
