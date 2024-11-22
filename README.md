@@ -33,7 +33,7 @@ A Blank Document opens up into which the following source code can be typed down
 ## a)To Verify the Functionality using Test Bench
 
 ## Source Code – Using Case Statement :
-
+```
 module alu_32bit_tb_case;
 
 reg [31:0]a;
@@ -69,6 +69,7 @@ initial
 #50 $finish;
 
 endmodule
+```
 
 Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
 
