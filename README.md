@@ -60,7 +60,7 @@ source /cadence/install/cshrc (mention the path of the tools)
       
 After this you can see the window like below 
 
-![Screenshot (94)](https://github.com/user-attachments/assets/6707ec78-5b1d-4c13-9342-be198ee2a7b8)
+![Screenshot 2024-11-13 100723](https://github.com/user-attachments/assets/bbac5b66-73f3-472c-9d0d-9aa4e6b38d2c)
 ### Fig 2: Invoke the Cadence Environment
 
 To Launch Simulation tool 
@@ -81,7 +81,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
-![Screenshot (94)](https://github.com/user-attachments/assets/6707ec78-5b1d-4c13-9342-be198ee2a7b8)
+![Screenshot (104)](https://github.com/user-attachments/assets/d1df2e87-0a99-42ed-87cb-d9bec152cad7)
 ### Fig 4:cds.lib file Creation
 
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
@@ -93,7 +93,6 @@ We are simulating verilog design without using any libraries
 A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
 ![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
-
 ### Fig 5: Selection of Don’t include any libraries
 
 A ‘NCLaunch window’ appears as shown in figure below
@@ -129,6 +128,7 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
+![Screenshot (106)](https://github.com/user-attachments/assets/ff656c55-bf07-41a2-866d-947a1e9750c1)
 ### Fig 7: Compiled database in worklib
 
 After compilation it will come under worklib you can see in right side window
@@ -163,6 +163,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
+![Screenshot (107)](https://github.com/user-attachments/assets/64a97feb-b03c-4e37-aca8-f724bce6c590)
 ## Fig 8: Elaboration Launch Option
 
 ## Step 3: Simulation: 
